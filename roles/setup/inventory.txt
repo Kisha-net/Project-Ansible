@@ -1,0 +1,2 @@
+# Public IP address for my ec2 instance
+ec2-34-205-68-50.compute-1.amazonaws.com
